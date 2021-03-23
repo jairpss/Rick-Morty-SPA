@@ -7,6 +7,6 @@ This is an example of a SPA using:
   - Webpack
   - Travis CI
 
-Live versio here -> https://jairpss.github.io/Rick-Morty-SPA/
+Live version here -> https://jairpss.github.io/Rick-Morty-SPA/
 
 # Thanks for watching!!
